@@ -1,0 +1,9 @@
+/.classpath
+.metadata
+.project
+.settings
+target
+test-output
+reports
+object2.properties
+desktop.ini
