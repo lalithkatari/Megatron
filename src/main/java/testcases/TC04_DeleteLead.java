@@ -10,7 +10,7 @@ public class TC04_DeleteLead extends OpentapsWrappers{
 	
 	@BeforeClass
 	public void startTestCase(){
-		browserName 	= "firefox";
+		browserName 	= "chrome";
 		dataSheetName 	= "TC04_DeleteLead";
 		testCaseName 	= "TC04 -DeleteLead (POM)";
 		testDescription = "Delete Lead in Opentaps using POM framework";
